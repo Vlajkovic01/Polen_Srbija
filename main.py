@@ -1,5 +1,4 @@
 import time
-
 import requests
 import os.path as io
 from datetime import date, timedelta
